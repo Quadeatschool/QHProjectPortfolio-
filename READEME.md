@@ -10,11 +10,13 @@ My purpose here is recording my journey as a programer in a way that others have
 
 [Software Demo Video](http://youtube.link.goes.here)
 
+https://quadeatschool.github.io/QHProjectPortfolio-/
+
 # Development Environment
 
 {Describe the tools that you used to develop the software}
 
-{Describe the programming language that you used}
+Python 
 
 # Useful Websites
 
