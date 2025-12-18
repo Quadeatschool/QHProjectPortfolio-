@@ -6,13 +6,13 @@ I have some basic things in here as it is my coding sandbox.
 
 My purpose here is recording my journey as a programer in a way that others have access to.
 
-[Software Demo Video](http://youtube.link.goes.here)
-
-https://quadeatschool.github.io/QHProjectPortfolio-/
+[Software Demo Video](https://youtu.be/d2MCLf2PJlo)
 
 # Development Environment
 
-Python for scripting and logic
+* Python 3.13.0
+* Git / Github
+* Visual Studio Code
 
 # Useful Websites
 
